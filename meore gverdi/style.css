@@ -1,0 +1,42 @@
+.icon{
+	width: 100px;
+	height: 70px;
+	margin-left: 100px;
+	padding-top: 50px;
+}
+li{
+	color: blue;
+	list-style-type: none;
+	margin-left: 60px;
+	font-weight: bold;
+}
+
+.kontaqti{
+	color: red;
+
+}
+.fblogo{
+	width: 50px;
+	height: 50px;
+	margin-left: 90px;
+    margin-top: 50px;
+    border-right: 1px solid black;
+}
+.youtube{
+	width: 50px;
+	height: 50px;
+	margin-left: 5px;
+    margin-top: 50px
+}
+.shuateqsti{
+	text-align: center;
+}
+h1{
+	font-size: 20px;
+}
+p{
+	font-size: 15px;
+}
+a:link{
+	text-decoration:none ;
+}
